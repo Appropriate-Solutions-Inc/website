@@ -1,0 +1,114 @@
+==================================================================
+https://keybase.io/raycote
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://appropriatesolutions.com
+  * I am raycote (https://keybase.io/raycote) on keybase.
+  * I have a public key ASDYNyzuGWZPH9zZTJ5cg3z9Bgh6DGQrVAfF3SSkZjpU1Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d8372cee19664f1fdcd94c9e5c837cfd06087a0c642b5407c5dd24a4663a54d50a",
+      "host": "keybase.io",
+      "kid": "0120d8372cee19664f1fdcd94c9e5c837cfd06087a0c642b5407c5dd24a4663a54d50a",
+      "uid": "a1a0340a2fdf33bea146c7b86b61f019",
+      "username": "raycote"
+    },
+    "merkle_root": {
+      "ctime": 1661954057,
+      "hash": "f17460f4890bc215c35a863b65f4c2b2b7177b18599d5e2af8f3cd234dcc71568e308ef87637b5f8e9c921d9b4bf213f1c047dbb175b49c2d6def98b506c92c0",
+      "hash_meta": "5be81aebc538ed4a7323fdf75e8fff9bd932a87aa73f9a6df0ff00ac178618f7",
+      "seqno": 23116903
+    },
+    "service": {
+      "entropy": "jHly4bvAWW1vJ3hNcEuiLbjV",
+      "hostname": "appropriatesolutions.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1661954074,
+  "expire_in": 504576000,
+  "prev": "253f536353100725fcab704160ea30b94429d692059554b05af4ea0c02c6b0b3",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2Dcs7hlmTx/c2UyeXIN8/QYIegxkK1QHxd0kpGY6VNUKp3BheWxvYWTESpcCFcQgJT9TY1MQByX8q3BBYOowuUQp1pIFlVSwWvTqDALGsLPEIGNtA4U5g9/v75soz87yfh8TzeOUYIrKMsexHniAdpuUAgHCo3NpZ8RAagpJBJd8nZgPAZkjT9c3L5RHE4zzZ3TtNqPcsfxLZP0FGIhgIiSyimwBOXY2CJJmYv0baurtTXlww+E8S77tB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINGzZu/6/suyWRcMKzeUa3m5hg37hb8I3sMfPDwMTd8vo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/raycote
+
+==================================================================
+
+
+==================================================================
+https://keybase.io/cfarinella
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://appropriatesolutions.com
+  * I am cfarinella (https://keybase.io/cfarinella) on keybase.
+  * I have a public key ASBLuj7CzbTda85VgXE-Fz2F5m4CtReyZ5jJAKJ9lgBZRAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204bba3ec2cdb4dd6bce5581713e173d85e66e02b517b26798c900a27d960059440a",
+      "host": "keybase.io",
+      "kid": "01204bba3ec2cdb4dd6bce5581713e173d85e66e02b517b26798c900a27d960059440a",
+      "uid": "6b8d80070a6e902d62a7e53e75007b19",
+      "username": "cfarinella"
+    },
+    "merkle_root": {
+      "ctime": 1662058501,
+      "hash": "793b11bf14545469627a0fec2f8f37e3ef4ef7d3591a51da4cda0d07fde4c6c18abd00f5ec5d6fe8e0ac473e9a295cca3e9a01d5cdc2be38c770b3ae394d3039",
+      "hash_meta": "d55f4f245573600191dcab3ffc9d7220334934e25baa2e45c9ec64f54ed621ce",
+      "seqno": 23125211
+    },
+    "service": {
+      "entropy": "bRc/fZXs7d/FI7IoWcLUqCq0",
+      "hostname": "appropriatesolutions.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1662058550,
+  "expire_in": 504576000,
+  "prev": "d118f57b82c2792d2d4a03beb8ddca8728bafb6a2567aabe0a44ab1d35994f04",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgS7o+ws203WvOVYFxPhc9heZuArUXsmeYyQCifZYAWUQKp3BheWxvYWTESpcCCMQg0Rj1e4LCeS0tSgO+uN3Khyi6+2olZ6q+CkSrHTWZTwTEIIKB5dyzQX6wOyOi3jmf/OrdJVIWj6o7ZWBPrYSwaRNgAgHCo3NpZ8RA/15JI1rv6K/0YI1r4c+0ZBU5aKU0CL52CS+Qwa61xJe7nlTFuaGT8n1hBkw9wxcu7qAek0YXyz7qCW2onOt7BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILal/4m2Di0qhBUEHI4xNtQ9qOgcgTyp8m5MYnKugC6po3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cfarinella
+
+==================================================================
